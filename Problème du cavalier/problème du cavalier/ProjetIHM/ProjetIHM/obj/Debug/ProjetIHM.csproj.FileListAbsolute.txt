@@ -1,0 +1,204 @@
+C:\Users\escoffie\source\repos\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe.config
+C:\Users\escoffie\source\repos\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe
+C:\Users\escoffie\source\repos\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.pdb
+C:\Users\escoffie\source\repos\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csprojAssemblyReference.cache
+C:\Users\escoffie\source\repos\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Properties.Resources.resources
+C:\Users\escoffie\source\repos\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.GenerateResource.cache
+C:\Users\escoffie\source\repos\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.CoreCompileInputs.cache
+C:\Users\escoffie\source\repos\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.exe
+C:\Users\escoffie\source\repos\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.pdb
+C:\Users\escoffie\source\repos\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.BoutonEchec.resources
+C:\Users\Vincent\Desktop\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe.config
+C:\Users\Vincent\Desktop\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe
+C:\Users\Vincent\Desktop\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.pdb
+C:\Users\Vincent\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csprojAssemblyReference.cache
+C:\Users\Vincent\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Properties.Resources.resources
+C:\Users\Vincent\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.GenerateResource.cache
+C:\Users\Vincent\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.exe
+C:\Users\Vincent\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.pdb
+E:\projet ihm\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe.config
+E:\projet ihm\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe
+E:\projet ihm\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.pdb
+E:\projet ihm\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csprojAssemblyReference.cache
+E:\projet ihm\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Properties.Resources.resources
+E:\projet ihm\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.GenerateResource.cache
+E:\projet ihm\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.CoreCompileInputs.cache
+E:\projet ihm\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.exe
+E:\projet ihm\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.pdb
+E:\projet ihm\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form1.resources
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form1.resources
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Properties.Resources.resources
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.GenerateResource.cache
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.CoreCompileInputs.cache
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.exe
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.pdb
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe.config
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.pdb
+E:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe.config
+E:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe
+E:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.pdb
+E:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csprojAssemblyReference.cache
+E:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form1.resources
+E:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Properties.Resources.resources
+E:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.GenerateResource.cache
+E:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.CoreCompileInputs.cache
+E:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.exe
+E:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.pdb
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csprojAssemblyReference.cache
+C:\Users\Vincent\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form1.resources
+C:\Users\Vincent\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form2.resources
+C:\Users\Vincent\Desktop\ProjetIHM\ProjetIHM\bin\Debug\images\22227horse_98801.ico
+C:\Users\Vincent\Desktop\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval par défaut.png
+C:\Users\Vincent\Desktop\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval rigolo.png
+C:\Users\Vincent\Desktop\ProjetIHM\ProjetIHM\bin\Debug\images\Fer à cheval.png
+C:\Users\Vincent\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form3.resources
+C:\Users\Vincent\Desktop\Nouveau dossier (4)\ProjetIHM-20200125T175239Z-001\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval par défaut.png
+C:\Users\Vincent\Desktop\Nouveau dossier (4)\ProjetIHM-20200125T175239Z-001\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval rigolo.png
+C:\Users\Vincent\Desktop\Nouveau dossier (4)\ProjetIHM-20200125T175239Z-001\ProjetIHM\ProjetIHM\bin\Debug\images\Fer à cheval.png
+C:\Users\Vincent\Desktop\Nouveau dossier (4)\ProjetIHM-20200125T175239Z-001\ProjetIHM\ProjetIHM\bin\Debug\images\22227horse_98801.ico
+C:\Users\Vincent\Desktop\Nouveau dossier (4)\ProjetIHM-20200125T175239Z-001\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe.config
+C:\Users\Vincent\Desktop\Nouveau dossier (4)\ProjetIHM-20200125T175239Z-001\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe
+C:\Users\Vincent\Desktop\Nouveau dossier (4)\ProjetIHM-20200125T175239Z-001\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.pdb
+C:\Users\Vincent\Desktop\Nouveau dossier (4)\ProjetIHM-20200125T175239Z-001\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csprojAssemblyReference.cache
+C:\Users\Vincent\Desktop\Nouveau dossier (4)\ProjetIHM-20200125T175239Z-001\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form1.resources
+C:\Users\Vincent\Desktop\Nouveau dossier (4)\ProjetIHM-20200125T175239Z-001\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form2.resources
+C:\Users\Vincent\Desktop\Nouveau dossier (4)\ProjetIHM-20200125T175239Z-001\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form3.resources
+C:\Users\Vincent\Desktop\Nouveau dossier (4)\ProjetIHM-20200125T175239Z-001\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Properties.Resources.resources
+C:\Users\Vincent\Desktop\Nouveau dossier (4)\ProjetIHM-20200125T175239Z-001\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.GenerateResource.cache
+C:\Users\Vincent\Desktop\Nouveau dossier (4)\ProjetIHM-20200125T175239Z-001\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\Desktop\Nouveau dossier (4)\ProjetIHM-20200125T175239Z-001\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.exe
+C:\Users\Vincent\Desktop\Nouveau dossier (4)\ProjetIHM-20200125T175239Z-001\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.pdb
+E:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval par défaut.png
+E:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval rigolo.png
+E:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\Fer à cheval.png
+E:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\22227horse_98801.ico
+E:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form2.resources
+E:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form3.resources
+E:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\Echiquier.jpg
+E:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\knightpiece.jpg
+D:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval par défaut.png
+D:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval rigolo.png
+D:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\Fer à cheval.png
+D:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\22227horse_98801.ico
+D:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\Echiquier.jpg
+D:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\knightpiece.jpg
+D:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe.config
+D:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe
+D:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.pdb
+D:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csprojAssemblyReference.cache
+D:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form1.resources
+D:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form2.resources
+D:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form3.resources
+D:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Properties.Resources.resources
+D:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.GenerateResource.cache
+D:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.CoreCompileInputs.cache
+D:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.exe
+D:\ProjetIHM\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.pdb
+D:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\fondform3.jpg
+D:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\fondform1.jpg
+D:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\fondform2.jpg
+E:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\fondform3.jpg
+E:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\fondform1.jpg
+E:\ProjetIHM\ProjetIHM\ProjetIHM\bin\Debug\images\fondform2.jpg
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval par défaut.png
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval rigolo.png
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\bin\Debug\images\Fer à cheval.png
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\bin\Debug\images\22227horse_98801.ico
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\bin\Debug\images\Echiquier.jpg
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\bin\Debug\images\knightpiece.jpg
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\bin\Debug\images\fondform1.jpg
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\bin\Debug\images\fondform3.jpg
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\bin\Debug\images\fondform2.jpg
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe.config
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.pdb
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csprojAssemblyReference.cache
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form1.resources
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form2.resources
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form3.resources
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Properties.Resources.resources
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.GenerateResource.cache
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.exe
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.pdb
+C:\Users\Vincent\Desktop\Nouveau dossier\ProjetIHM\ProjetIHM\bin\Debug\images\jeu.jpg
+D:\IHM\Projet\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval par défaut.png
+D:\IHM\Projet\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval rigolo.png
+D:\IHM\Projet\ProjetIHM\ProjetIHM\bin\Debug\images\Fer à cheval.png
+D:\IHM\Projet\ProjetIHM\ProjetIHM\bin\Debug\images\22227horse_98801.ico
+D:\IHM\Projet\ProjetIHM\ProjetIHM\bin\Debug\images\Echiquier.jpg
+D:\IHM\Projet\ProjetIHM\ProjetIHM\bin\Debug\images\knightpiece.jpg
+D:\IHM\Projet\ProjetIHM\ProjetIHM\bin\Debug\images\fondform1.jpg
+D:\IHM\Projet\ProjetIHM\ProjetIHM\bin\Debug\images\fondform3.jpg
+D:\IHM\Projet\ProjetIHM\ProjetIHM\bin\Debug\images\fondform2.jpg
+D:\IHM\Projet\ProjetIHM\ProjetIHM\bin\Debug\images\jeu.jpg
+D:\IHM\Projet\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe.config
+D:\IHM\Projet\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe
+D:\IHM\Projet\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.pdb
+D:\IHM\Projet\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csprojAssemblyReference.cache
+D:\IHM\Projet\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form1.resources
+D:\IHM\Projet\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form2.resources
+D:\IHM\Projet\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form3.resources
+D:\IHM\Projet\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Properties.Resources.resources
+D:\IHM\Projet\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.GenerateResource.cache
+D:\IHM\Projet\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.CoreCompileInputs.cache
+D:\IHM\Projet\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.exe
+D:\IHM\Projet\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.pdb
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form2.resources
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form3.resources
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval par défaut.png
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval rigolo.png
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\bin\Debug\images\Fer à cheval.png
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\bin\Debug\images\22227horse_98801.ico
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\bin\Debug\images\Echiquier.jpg
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\bin\Debug\images\knightpiece.jpg
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\bin\Debug\images\fondform1.jpg
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\bin\Debug\images\fondform3.jpg
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\bin\Debug\images\fondform2.jpg
+C:\Users\escoffie\Desktop\ProjetIHM\ProjetIHM\bin\Debug\images\jeu.jpg
+E:\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval par défaut.png
+E:\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval rigolo.png
+E:\ProjetIHM\ProjetIHM\bin\Debug\images\Fer à cheval.png
+E:\ProjetIHM\ProjetIHM\bin\Debug\images\22227horse_98801.ico
+E:\ProjetIHM\ProjetIHM\bin\Debug\images\Echiquier.jpg
+E:\ProjetIHM\ProjetIHM\bin\Debug\images\knightpiece.jpg
+E:\ProjetIHM\ProjetIHM\bin\Debug\images\fondform1.jpg
+E:\ProjetIHM\ProjetIHM\bin\Debug\images\fondform3.jpg
+E:\ProjetIHM\ProjetIHM\bin\Debug\images\fondform2.jpg
+E:\ProjetIHM\ProjetIHM\bin\Debug\images\jeu.jpg
+E:\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe.config
+E:\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe
+E:\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.pdb
+E:\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csprojAssemblyReference.cache
+E:\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form1.resources
+E:\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form2.resources
+E:\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form3.resources
+E:\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Properties.Resources.resources
+E:\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.GenerateResource.cache
+E:\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.CoreCompileInputs.cache
+E:\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.exe
+E:\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.pdb
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval par défaut.png
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\bin\Debug\images\Cheval rigolo.png
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\bin\Debug\images\Fer à cheval.png
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\bin\Debug\images\22227horse_98801.ico
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\bin\Debug\images\Echiquier.jpg
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\bin\Debug\images\knightpiece.jpg
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\bin\Debug\images\fondform1.jpg
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\bin\Debug\images\fondform3.jpg
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\bin\Debug\images\fondform2.jpg
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\bin\Debug\images\jeu.jpg
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe.config
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.exe
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\bin\Debug\ProjetIHM.pdb
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csprojAssemblyReference.cache
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form1.resources
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form2.resources
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Form3.resources
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.Properties.Resources.resources
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.GenerateResource.cache
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.csproj.CoreCompileInputs.cache
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.exe
+C:\Users\escoffie\Desktop\DUT AS- SIGNATE Aissatou- ESCOFFIER Vincent\ProjetIHM\ProjetIHM\obj\Debug\ProjetIHM.pdb
